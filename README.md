@@ -14,6 +14,7 @@ This is a task for the Software Development Engineer in Test Application at Pixe
   - Screenshot on failure and attaching the screenshot to the report
   - Page file
   - Maven framework
+  - HTTP Response saved in xml file (Testcase008)
   - CI ready (run maven commands)
 
 ### Test cases
@@ -27,6 +28,7 @@ Dillinger uses a number of open source projects to work properly:
 * Testcase005 - Testing failed sign up for invalid email (-ve testing)
 * Testcase006 - Testing failed sign up for invalid phone (-ve testing)
 * Testcase007 - Testing successful sign up for valid data (+ve testing)
+* Testcase008 - Saving HTTP response into xml file
 
 ### Installation
 
@@ -62,8 +64,9 @@ Use this command for the RegTest suite
 ```sh
 $ mvn test -PRegTest
 ```
-### Limitations
-HTTP interceptor not added yet!
 
 ### Reports
 Report can be found in "webtesting\reports"
+
+### HTTP Response
+Response can be found in "webtesting\HTTPResponse"

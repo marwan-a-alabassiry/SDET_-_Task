@@ -26,7 +26,6 @@
 <fullyQualifiedTypeName name="org.apache.commons.io.FileUtils"/>
 <fullyQualifiedTypeName name="org.openqa.selenium.OutputType"/>
 <fullyQualifiedTypeName name="org.testng.annotations.AfterMethod"/>
-<fullyQualifiedTypeName name="helper.Commons"/>
 <fullyQualifiedTypeName name="com.aventstack.extentreports.ExtentTest"/>
 <fullyQualifiedTypeName name="com.relevantcodes.extentreports.ExtentTest"/>
 <fullyQualifiedTypeName name="com.relevantcodes.extentreports.ExtentReports"/>
@@ -44,4 +43,5 @@
 <fullyQualifiedTypeName name="java.io.InputStream"/>
 <fullyQualifiedTypeName name="org.apache.poi.util.IOUtils"/>
 <fullyQualifiedTypeName name="org.apache.commons.io.IOUtils"/>
+<fullyQualifiedTypeName name="helper.Commons"/>
 </qualifiedTypeNameHistroy>

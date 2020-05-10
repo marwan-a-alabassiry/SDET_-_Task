@@ -10,6 +10,7 @@
 			<class name="com.phptravels.webtesting.Testcase005"></class>
 			<class name="com.phptravels.webtesting.Testcase006" />
 			<class name="com.phptravels.webtesting.Testcase007"></class>
+			<class name="com.phptravels.webtesting.Testcase008"></class>
 		</classes>
 	</test> <!-- Test -->
 </suite> <!-- Suite -->

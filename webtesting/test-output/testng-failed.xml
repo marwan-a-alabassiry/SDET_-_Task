@@ -3,18 +3,11 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test verbose="2" name="Default test">
     <classes>
-      <class name="com.phptravels.webtesting.Testcase008"/>
-    </classes>
-  </test> <!-- Default test -->
-  <test name="Default test(failed)">
-    <classes>
       <class name="com.phptravels.webtesting.Testcase008">
         <methods>
-          <include name="setup"/>
-          <include name="testingValidData" invocation-numbers="0"/>
-          <include name="cleanup"/>
+          <include name="testingHttpResponse"/>
         </methods>
       </class> <!-- com.phptravels.webtesting.Testcase008 -->
     </classes>
-  </test> <!-- Default test(failed) -->
+  </test> <!-- Default test -->
 </suite> <!-- Failed suite [Default suite] -->
